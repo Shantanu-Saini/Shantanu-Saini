@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shantanu Saini</h1>
 <h3 align="center">A passionate Web developer from India ❤</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shantanu-saini&label=Profile%20views&color=0e75b6&style=flat" alt="shantanu-saini" /> </p>
 
