@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shantanu-saini&label=Profile%20views&color=0e75b6&style=flat" alt="shantanu-saini" /> </p>
 
-- 🌱 I’m currently learning **Express.JS**
+- 🌱 I’m currently learning **Next.JS**
 
 - 💬 Ask me about **Full Stack Web Development**
 
